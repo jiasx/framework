@@ -1,0 +1,59 @@
+{
+    "code": 200,
+    "data": {
+        "rank": [
+            {
+                "date":"2020-10-27",
+                "sale": 8528000,
+                "saleprice": 21807000,
+                "ctvideo": 123,
+                "czvideo": 234,
+                "partner": "30"
+            },
+            {
+                "date":"2020-10-28",
+                "sale": 8528000,
+                "saleprice": 21807000,
+                "ctvideo": 123,
+                "czvideo": 234,
+                "partner": "30"
+            },{
+                "date":"2020-10-29",
+                "sale": 8528000,
+                "saleprice": 21807000,
+                "ctvideo": 123,
+                "czvideo": 234,
+                "partner": "30"
+            },{
+                "date":"2020-10-27",
+                "sale": 8528000,
+                "saleprice": 21807000,
+                "ctvideo": 123,
+                "czvideo": 234,
+                "partner": "30"
+            },{
+                "date":"2020-10-27",
+                "sale": 8528000,
+                "saleprice": 21807000,
+                "ctvideo": 123,
+                "czvideo": 234,
+                "partner": "30"
+            },{
+                "date":"2020-10-27",
+                "sale": 8528000,
+                "saleprice": 21807000,
+                "ctvideo": 123,
+                "czvideo": 234,
+                "partner": "30"
+            },{
+                "date":"2020-10-27",
+                "sale": 8528000,
+                "saleprice": 21807000,
+                "ctvideo": 123,
+                "czvideo": 234,
+                "partner": "30"
+            }
+        ]
+    },
+    "message": "success"
+}

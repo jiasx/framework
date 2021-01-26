@@ -1,0 +1,343 @@
+{
+    "code": 200,
+    "message": "success",
+    "data": {
+        "pagination": {
+            "has_more": 1,
+            "page": "1",
+            "limit": 10
+        },
+        "challenge_list": [
+            {
+                "cha_cid": "1635668155935752",
+                "cha_name": "合拍",
+                "cha_user_count": 459022868,
+                "cha_view_count": 216697579729,
+                "updated_at": "2020-12-31",
+                "hot_videos": [
+                    {
+                        "aweme_id": 6905577134668909839,
+                        "title": "和 @Astronaut 一起 #合拍 #青蛙舞#魔性舞蹈",
+                        "des": "和 @Astronaut 一起 #合拍 #青蛙舞#魔性舞蹈",
+                        "url": "https://www.iesdouyin.com/share/video/6905577134668909839/?region=CN&mid=6534568101626219278&u_code=15bk99ig0&titleType=title&did=70175173061&iid=967218205821150",
+                        "digg_count": 2703466,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/7262ebc36ca146afa9ce0ccc6fbe23e5_1607829989"
+                    },
+                    {
+                        "aweme_id": 6863426200065379587,
+                        "title": "和 @飞力裴 一起 #合拍 来挑战8⃣️👧🏻💞✨#爆米花接唱 #转音挑战 #爆米花接唱挑战",
+                        "des": "和 @飞力裴 一起 #合拍 来挑战8⃣️👧🏻💞✨#爆米花接唱 #转音挑战 #爆米花接唱挑战",
+                        "url": "https://www.iesdouyin.com/share/video/6863426200065379587/?region=CN&mid=6863417449506097933&u_code=15bk99ig0&titleType=title&did=70175173061&iid=967218205821150",
+                        "digg_count": 2620765,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/8743c81c17c3428e96f25b0dba1405f4_1598015947"
+                    },
+                    {
+                        "aweme_id": 6782383292210564356,
+                        "title": "决定了，我要紧紧跟随你🐚💜🐘@罗志祥 #合拍",
+                        "des": "决定了，我要紧紧跟随你🐚💜🐘@罗志祥 #合拍",
+                        "url": "https://www.douyin.com/share/video/6782383292210564356/?region=CN&mid=&titleType=title&timestamp=&utm_campaign=client_share&app=aweme&utm_medium=ios&tt_from=copy&iid=1&utm_source=copy",
+                        "digg_count": 2409772,
+                        "cover_url": "https://p26-dy.byteimg.com/tos-cn-p-0015/ccdb388b3a5245d28fb8f6362ea789d8_1579146698~tplv-dy-360p.jpeg?from=2563711402"
+                    }
+                ]
+            },
+            {
+                "cha_cid": "1588091472019470",
+                "cha_name": "合拍",
+                "cha_user_count": 158554722,
+                "cha_view_count": 98622006032,
+                "updated_at": "2020-12-31",
+                "hot_videos": [
+                    {
+                        "aweme_id": 6628657362959863044,
+                        "title": "和 @吱吱吱💗 一起 #合拍 学着点这套路，我怎么感觉有点土",
+                        "des": "和 @吱吱吱💗 一起 #合拍 学着点这套路，我怎么感觉有点土",
+                        "url": "https://www.douyin.com/share/video/6628657362959863044/?region=CN&mid=&titleType=title&timestamp=&utm_campaign=client_share&app=aweme&utm_medium=ios&tt_from=copy&iid=1&utm_source=copy",
+                        "digg_count": 1283919,
+                        "cover_url": "https://p26-dy.byteimg.com/1274200010023947bdd75~tplv-dy-360p.jpeg?from=2563711402"
+                    },
+                    {
+                        "aweme_id": 6593901636718955783,
+                        "title": "和 @小吴. 一起 #合拍@👑园👙园ღ²⁰¹⁷",
+                        "des": "和 @小吴. 一起 #合拍@👑园👙园ღ²⁰¹⁷",
+                        "url": "https://www.douyin.com/share/video/6593901636718955783/?region=CN&mid=&titleType=title&timestamp=&utm_campaign=client_share&app=aweme&utm_medium=ios&tt_from=copy&iid=1&utm_source=copy",
+                        "digg_count": 827435,
+                        "cover_url": "https://p9-dy.byteimg.com/b0080007085783a43511~tplv-dy-360p.jpeg?from=2563711402"
+                    },
+                    {
+                        "aweme_id": 6636264187897056519,
+                        "title": "和 @罗志祥  一起 #合拍  😂 小猪同学的服务很到位😂",
+                        "des": "和 @罗志祥  一起 #合拍  😂 小猪同学的服务很到位😂",
+                        "url": "https://www.douyin.com/share/video/6636264187897056519/?region=CN&mid=&titleType=title&timestamp=&utm_campaign=client_share&app=aweme&utm_medium=ios&tt_from=copy&iid=1&utm_source=copy",
+                        "digg_count": 735324,
+                        "cover_url": "https://p26-dy.byteimg.com/14859000a4fad7feaee91~tplv-dy-360p.jpeg?from=2563711402"
+                    }
+                ]
+            },
+            {
+                "cha_cid": "1655157240549389",
+                "cha_name": "百变贺新年",
+                "cha_user_count": 119055596,
+                "cha_view_count": 50291998375,
+                "updated_at": "2020-12-31",
+                "hot_videos": [
+                    {
+                        "aweme_id": 6787338173044346115,
+                        "title": "正确的变身方法是：无论变成什么样，口罩别忘了戴上！#百变贺新年",
+                        "des": "正确的变身方法是：无论变成什么样，口罩别忘了戴上！#百变贺新年",
+                        "url": "https://www.iesdouyin.com/share/video/6787338173044346115/?region=CN&mid=6780282877629303566&u_code=11076b3l2&titleType=title",
+                        "digg_count": 2689761,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/a543028ef46b476cb9a6baa472df88e1_1580300332"
+                    },
+                    {
+                        "aweme_id": 6786897242616794371,
+                        "title": "#百变贺新年 无聊？怎么可能无聊？我不会无聊！！",
+                        "des": "#百变贺新年 无聊？怎么可能无聊？我不会无聊！！",
+                        "url": "https://www.iesdouyin.com/share/video/6786897242616794371/?region=CN&mid=6780282877629303566&u_code=11076b3l2&titleType=title",
+                        "digg_count": 1880000,
+                        "cover_url": "https://p3.pstatp.com/obj/tos-cn-p-0015/99e78ada6730492ba6b0054deb997cca_1580197674"
+                    },
+                    {
+                        "aweme_id": 6784241018091867405,
+                        "title": "#百变贺新年 拜个早年，鞭炮头yoyo～ 🤟🤟🤟",
+                        "des": "#百变贺新年 拜个早年，鞭炮头yoyo～ 🤟🤟🤟",
+                        "url": "https://www.iesdouyin.com/share/video/6784241018091867405/?region=CN&mid=6784121518046645003&u_code=15bk99ig0&titleType=title&did=70175173061&iid=967218205821150",
+                        "digg_count": 1839056,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/4e7c68dd0c38487ba9b293dea2ce1301_1579579221"
+                    }
+                ]
+            },
+            {
+                "cha_cid": "1557656100811777",
+                "cha_name": "抖音小助手",
+                "cha_user_count": 91581941,
+                "cha_view_count": 1524956647717,
+                "updated_at": "2020-12-31",
+                "hot_videos": [
+                    {
+                        "aweme_id": 6789453325847874831,
+                        "title": "90后医生连续十天九夜奋战防疫一线 ，最终过劳猝死🕯️一路走好#抖音小助手",
+                        "des": "90后医生连续十天九夜奋战防疫一线 ，最终过劳猝死🕯️一路走好#抖音小助手",
+                        "url": "https://www.iesdouyin.com/share/video/6789453325847874831/?region=CN&mid=6789436680374897411&u_code=15bk99ig0&titleType=title&did=70175173061&iid=967218205821150",
+                        "digg_count": 17985713,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/9acbe595d1de459d9d870e30d0779668_1580792802"
+                    },
+                    {
+                        "aweme_id": 6853307419259325703,
+                        "title": "芜湖脑瘫少年今年考了623分，超出一本线108分！点赞给这位逆风飞翔的19岁少年！记者 奚璟#抖音小助手",
+                        "des": "芜湖脑瘫少年今年考了623分，超出一本线108分！点赞给这位逆风飞翔的19岁少年！记者 奚璟#抖音小助手",
+                        "url": "https://www.iesdouyin.com/share/video/6853307419259325703/?region=CN&mid=6695562919343557390&u_code=11076b3l2&titleType=title",
+                        "digg_count": 7369896,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/1a2bf03255a348b2b8d44f4ff72ef6ef_1595659982"
+                    },
+                    {
+                        "aweme_id": 6786130424759340288,
+                        "title": "武汉大学中南医院桂希恩：新冠病毒完全能控制！预计正月十五前武汉市疫情可能出现回落#抖音小助手 #疫情全知道",
+                        "des": "武汉大学中南医院桂希恩：新冠病毒完全能控制！预计正月十五前武汉市疫情可能出现回落#抖音小助手 #疫情全知道",
+                        "url": "https://www.iesdouyin.com/share/video/6786130424759340288/?region=CN&mid=6729304593983097603&u_code=15bk99ig0&titleType=title&did=70175173061&iid=967218205821150",
+                        "digg_count": 7308088,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/2af678bba38d46c6848412785b0b4cf4_1580019131"
+                    }
+                ]
+            },
+            {
+                "cha_cid": "1665121378958350",
+                "cha_name": "一笑就倾心",
+                "cha_user_count": 81386730,
+                "cha_view_count": 42852691432,
+                "updated_at": "2020-12-31",
+                "hot_videos": [
+                    {
+                        "aweme_id": 6854076691371805955,
+                        "title": "没有文案💨 #一笑就倾心 @抖音小助手 #倾心变装",
+                        "des": "没有文案💨 #一笑就倾心 @抖音小助手 #倾心变装",
+                        "url": "https://www.iesdouyin.com/share/video/6854076691371805955/?region=CN&mid=6853372786753555214&u_code=11076b3l2&titleType=title",
+                        "digg_count": 1800931,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/41e5f051ada14cd18c72c892e59d856e_1595839098"
+                    },
+                    {
+                        "aweme_id": 6841394574259162381,
+                        "title": "#一笑就倾心 #比心卡点 節奏對了嗎？🤣🤣🤣",
+                        "des": "#一笑就倾心 #比心卡点 節奏對了嗎？🤣🤣🤣",
+                        "url": "https://www.iesdouyin.com/share/video/6841394574259162381/?region=CN&mid=6821839064233970446&u_code=11076b3l2&titleType=title&did=70175173061&iid=3623634069365758",
+                        "digg_count": 507695,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/f1082d4e29b541849f417cb1d33eb28b_1592886307"
+                    },
+                    {
+                        "aweme_id": 6831051381177109767,
+                        "title": "#一笑就倾心 你们要的合体来了@吕小一 @抖音小助手",
+                        "des": "#一笑就倾心 你们要的合体来了@吕小一 @抖音小助手",
+                        "url": "https://www.douyin.com/share/video/6831051381177109767/?region=CN&mid=&titleType=title&timestamp=&utm_campaign=client_share&app=aweme&utm_medium=ios&tt_from=copy&iid=1&utm_source=copy",
+                        "digg_count": 487742,
+                        "cover_url": "https://p3-dy-ipv6.byteimg.com/tos-cn-p-0015/de168a07a3584d088073b0c713fcb4ce_1590478095~tplv-dy-360p.jpeg?from=2563711402"
+                    }
+                ]
+            },
+            {
+                "cha_cid": "1648090620062733",
+                "cha_name": "迎风摇曳小雏菊",
+                "cha_user_count": 70705734,
+                "cha_view_count": 28023739927,
+                "updated_at": "2020-12-31",
+                "hot_videos": [
+                    {
+                        "aweme_id": 6752845965302041867,
+                        "title": "#迎风摇曳小雏菊  记得要早点睡觉 ，不许熬夜 ❤️",
+                        "des": "#迎风摇曳小雏菊  记得要早点睡觉 ，不许熬夜 ❤️",
+                        "url": "https://www.iesdouyin.com/share/video/6752845965302041867/?region=CN&mid=6748373883189758723&u_code=15bk99ig0&titleType=title",
+                        "digg_count": 203567,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/dbd2a5e88b164c7dba860379d80aa9c6_1572269486"
+                    },
+                    {
+                        "aweme_id": 6752418214342298883,
+                        "title": "#迎风摇曳小雏菊 这么喜欢小车车我怕你长大又是个女汉纸😂",
+                        "des": "#迎风摇曳小雏菊 这么喜欢小车车我怕你长大又是个女汉纸😂",
+                        "url": "https://www.iesdouyin.com/share/video/6752418214342298883/?region=CN&mid=6745143580366523149&u_code=11076b3l2&titleType=title&did=70175173061&iid=2251440637885176",
+                        "digg_count": 169144,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/687762b6ab004b63ae6d98a2120e73ef_1572252750"
+                    },
+                    {
+                        "aweme_id": 6753163573016497411,
+                        "title": "从上期追过来的举个手@抖音MCN #迎风摇曳小雏菊 #我的启发魔法",
+                        "des": "从上期追过来的举个手@抖音MCN #迎风摇曳小雏菊 #我的启发魔法",
+                        "url": "https://www.iesdouyin.com/share/video/6753163573016497411/?region=CN&mid=6719436608535415559&u_code=36fi3lehcdfb&titleType=title",
+                        "digg_count": 112480,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/a87593799e904e86a0cddd0aa1ae4c60_1572343692"
+                    }
+                ]
+            },
+            {
+                "cha_cid": "1609393701092355",
+                "cha_name": "风花雪月这有何难",
+                "cha_user_count": 54138028,
+                "cha_view_count": 25589833441,
+                "updated_at": "2020-12-31",
+                "hot_videos": [
+                    {
+                        "aweme_id": 6845441267124522240,
+                        "title": "#风花雪月这有何难",
+                        "des": "#风花雪月这有何难",
+                        "url": "https://www.iesdouyin.com/share/video/6845441267124522240/?region=CN&mid=6762125579820894989&u_code=36fi3lehcdfb&titleType=title&did=2207452195981694&iid=3834716930457358",
+                        "digg_count": 98068,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/a14904c8679547ec88140a2e0a66df5e_1593828501"
+                    },
+                    {
+                        "aweme_id": 6759862978230652172,
+                        "title": "#风花雪月这有何难",
+                        "des": "#风花雪月这有何难",
+                        "url": "https://www.iesdouyin.com/share/video/6759862978230652172/?region=CN&mid=6553481843885378307&u_code=11076b3l2&titleType=title",
+                        "digg_count": 82638,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/7c995307b7904c4591fce653666ddd7d_1573903260"
+                    },
+                    {
+                        "aweme_id": 6810681540931030286,
+                        "title": "人生道路坎坷多，忍辱负重，勇向前。@抖音小助手 #风花雪月这有何难",
+                        "des": "人生道路坎坷多，忍辱负重，勇向前。@抖音小助手 #风花雪月这有何难",
+                        "url": "https://www.iesdouyin.com/share/video/6810681540931030286/?region=CN&mid=6800973919844551437&u_code=11076b3l2&titleType=title",
+                        "digg_count": 61537,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/f8604a18f19b47f5b57d82e2bb597f2d_1585735371"
+                    }
+                ]
+            },
+            {
+                "cha_cid": "1661678338407427",
+                "cha_name": "在家云赏花",
+                "cha_user_count": 49944732,
+                "cha_view_count": 16215064996,
+                "updated_at": "2020-12-31",
+                "hot_videos": [
+                    {
+                        "aweme_id": 6812983906355137807,
+                        "title": "#在家云赏花 #酒醉的蝴蝶 好合适",
+                        "des": "#在家云赏花 #酒醉的蝴蝶 好合适",
+                        "url": "https://www.iesdouyin.com/share/video/6812983906355137807/?region=CN&mid=6812974390721530632&u_code=36fi3lehcdfb&titleType=title",
+                        "digg_count": 250749,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/4b87d19849c144dfa5f20c8283be6bf0_1586271432"
+                    },
+                    {
+                        "aweme_id": 6813270063441890575,
+                        "title": "#在家云赏花 这特效是咋想的",
+                        "des": "#在家云赏花 这特效是咋想的",
+                        "url": "https://www.iesdouyin.com/share/video/6813270063441890575/?region=CN&mid=6813244748745640707&u_code=11076b3l2&titleType=title",
+                        "digg_count": 127624,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/f8258f2c558447c6bc95e63b15714e73_1586338058"
+                    },
+                    {
+                        "aweme_id": 6822891993828494599,
+                        "title": "#在家云赏花",
+                        "des": "#在家云赏花",
+                        "url": "https://www.iesdouyin.com/share/video/6822891993828494599/?region=CN&mid=6620627053064489736&u_code=36fi3lehcdfb&titleType=title&did=2207452195981694&iid=3834716930457358",
+                        "digg_count": 97515,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/45cf0ecb97de43c6a5f3ad265f71f7e5_1588578340"
+                    }
+                ]
+            },
+            {
+                "cha_cid": "1636861048495112",
+                "cha_name": "仙气飘飘化蝶飞",
+                "cha_user_count": 48718575,
+                "cha_view_count": 21407723974,
+                "updated_at": "2020-12-31",
+                "hot_videos": [
+                    {
+                        "aweme_id": 6706012286269525256,
+                        "title": "#仙气飘飘化蝶飞 emmmmm",
+                        "des": "#仙气飘飘化蝶飞 emmmmm",
+                        "url": "https://www.iesdouyin.com/share/video/6706012286269525256/?region=CN&mid=6697807090859215630&u_code=36fi3lehcdfb&titleType=title&did=2207452195981694&iid=3834716930457358",
+                        "digg_count": 1503145,
+                        "cover_url": "https://p9.pstatp.com/obj/2a1ee00034053d4c0c97d"
+                    },
+                    {
+                        "aweme_id": 6707511761353854222,
+                        "title": "#仙气飘飘化蝶飞 不是特效，是真的脸大😩",
+                        "des": "#仙气飘飘化蝶飞 不是特效，是真的脸大😩",
+                        "url": "https://www.iesdouyin.com/share/video/6707511761353854222/?region=CN&mid=6616254215599688451&u_code=15bk99ig0&titleType=title&did=70175173061&iid=967218205821150",
+                        "digg_count": 1047774,
+                        "cover_url": "https://p9.pstatp.com/obj/28b37000b3ea195d17d06"
+                    },
+                    {
+                        "aweme_id": 6704568056636574988,
+                        "title": "可以说是很小心了哈哈哈哈 #仙气飘飘化蝶飞",
+                        "des": "可以说是很小心了哈哈哈哈 #仙气飘飘化蝶飞",
+                        "url": "https://www.iesdouyin.com/share/video/6704568056636574988/?region=CN&mid=6690502909437725448&u_code=36fi3lehcdfb&titleType=title&did=2207452195981694&iid=3834716930457358",
+                        "digg_count": 921310,
+                        "cover_url": "https://p9.pstatp.com/obj/27dcf000a931d8085a70c"
+                    }
+                ]
+            },
+            {
+                "cha_cid": "1652995334524941",
+                "cha_name": "蓄力新年心愿",
+                "cha_user_count": 47146684,
+                "cha_view_count": 19156189844,
+                "updated_at": "2020-12-31",
+                "hot_videos": [
+                    {
+                        "aweme_id": 6774583424490425614,
+                        "title": "祝大家新的一年，心愿都实现 #蓄力新年心愿",
+                        "des": "祝大家新的一年，心愿都实现 #蓄力新年心愿",
+                        "url": "https://www.iesdouyin.com/share/video/6774583424490425614/?region=CN&mid=6774531891417598724&u_code=11076b3l2&titleType=title",
+                        "digg_count": 1912000,
+                        "cover_url": "https://p3.pstatp.com/obj/tos-cn-p-0015/3d6cf36927c048db81d20b25d510891e_1577368883"
+                    },
+                    {
+                        "aweme_id": 6776076573968846083,
+                        "title": "抖音的朋友们请注意，听说你们都想来一场“刘星”雨实现新年愿望，我～～来～～啦～～！#蓄力新年心愿",
+                        "des": "抖音的朋友们请注意，听说你们都想来一场“刘星”雨实现新年愿望，我～～来～～啦～～！#蓄力新年心愿",
+                        "url": "https://www.iesdouyin.com/share/video/6776076573968846083/?region=CN&mid=6776045113001937678&u_code=15bk99ig0&titleType=title&did=70175173061&iid=967218205821150",
+                        "digg_count": 1810986,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/4d77eaf0463748ccbd27127ce4de3974_1577678285"
+                    },
+                    {
+                        "aweme_id": 6776097871843446023,
+                        "title": "#蓄力新年心愿 以为妹妹想要看流星，没想到竟然是刘星 @张一山",
+                        "des": "#蓄力新年心愿 以为妹妹想要看流星，没想到竟然是刘星 @张一山",
+                        "url": "https://www.iesdouyin.com/share/video/6776097871843446023/?region=CN&mid=6776072583550274311&u_code=11076b3l2&titleType=title",
+                        "digg_count": 1048226,
+                        "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/cbac6b69efab4515b786887ec9ce0531_1577683720"
+                    }
+                ]
+            }
+        ]
+    }
+}

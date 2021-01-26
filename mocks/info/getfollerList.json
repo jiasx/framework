@@ -1,0 +1,67 @@
+{
+    "code": 200,
+    "data": {
+        "uid": "2836391727733271",
+        "fans_trend": [
+            {
+                "follower_count": 20606000,
+                "calculated_date": "2020-12-31"
+            },
+            {
+                "follower_count": 20610000,
+                "calculated_date": "2020-12-30"
+            },
+            {
+                "follower_count": 20615000,
+                "calculated_date": "2020-12-29"
+            },
+            {
+                "follower_count": 20620000,
+                "calculated_date": "2020-12-28"
+            },
+            {
+                "follower_count": 20626000,
+                "calculated_date": "2020-12-27"
+            },
+            {
+                "follower_count": 20632000,
+                "calculated_date": "2020-12-26"
+            },
+            {
+                "follower_count": 20635000,
+                "calculated_date": "2020-12-25"
+            }
+        ],
+        "fans_grow_trend": [
+            {
+                "follower_count_grow": -4000,
+                "calculated_date": "2020-12-31"
+            },
+            {
+                "follower_count_grow": -5000,
+                "calculated_date": "2020-12-30"
+            },
+            {
+                "follower_count_grow": -5000,
+                "calculated_date": "2020-12-29"
+            },
+            {
+                "follower_count_grow": -6000,
+                "calculated_date": "2020-12-28"
+            },
+            {
+                "follower_count_grow": -6000,
+                "calculated_date": "2020-12-27"
+            },
+            {
+                "follower_count_grow": -3000,
+                "calculated_date": "2020-12-26"
+            },
+            {
+                "follower_count_grow": -4000,
+                "calculated_date": "2020-12-25"
+            }
+        ]
+    },
+    "message": "success"
+}

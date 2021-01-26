@@ -1,0 +1,11 @@
+{
+    "code": 200,
+    "data": {
+        "uid": 2836391727733271,
+        "avg_digg_count": 15968014,
+        "avg_comment_count": 2458748.3333333335,
+        "avg_share_count": 655853.33333333337,
+        "digg_follower_rate": 0.77492060564884013
+    },
+    "message": "success"
+}

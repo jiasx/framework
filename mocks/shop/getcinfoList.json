@@ -1,0 +1,34 @@
+{
+    "code": 200,
+    "data": {
+        "kol_info": {
+            "uid": 2836391727733271,
+            "short_id": "yanyuanlixian",
+            "nickname": "李现ing",
+            "signature": "演员李现",
+            "gender": -1,
+            "location": "-1",
+            "avatar": "https://p3-dy-ipv6.byteimg.com/aweme/720x720/2cecf0003bc5d59689ffa.jpeg?from=4010531038",
+            "with_commerce_entry": 0,
+            "is_verify": 1,
+            "verify_info": "演员",
+            "is_enterprise_verify": 0,
+            "enterprise_verify_reason": null,
+            "qrcode_url": "https://p26-dy.byteimg.com/obj/2cea10000b30a9aa1eb84",
+            "age": 29,
+            "kol_category": "明星,帅哥,明星"
+        },
+        "kol_base_data": {
+            "aweme_count": 3,
+            "follower_count": 20606000,
+            "total_favorited": 47903000,
+            "avg_total_favorited": 15967666.67,
+            "avg_total_comment": 0,
+            "avg_total_share": 0,
+            "favorited_follower_rate": "2.3247",
+            "transform_rate": 0,
+            "easy_rate": 6259
+        }
+    },
+    "message": "success"
+}

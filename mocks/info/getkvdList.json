@@ -1,0 +1,133 @@
+{
+    "code": 200,
+    "message": "success",
+    "data": {
+        "pagination": {
+            "has_more": 1,
+            "page": "1",
+            "limit": 10
+        },
+        "kol_video_list": [
+            {
+                "author_uid": 104255897823,
+                "aweme_id": 6740845899909549325,
+                "des": "这个必须赞，太厉害！武警部队排头兵蒙眼踢正步！",
+                "cover_url": "https://p3-dy-ipv6.byteimg.com/obj/293f4000bb8951292424c?from=2563711402_large",
+                "digg_count": 35578186,
+                "comment_count": 108238,
+                "share_count": 415418,
+                "create_time": "2019-09-26 13:24:53",
+                "duration": 0,
+                "url": "https://www.iesdouyin.com/share/video/6740845899909549325/?region=CN&mid=6740824951110224647&u_code=16bhf3696&titleType=title"
+            },
+            {
+                "author_uid": 104255897823,
+                "aweme_id": 6834781814566014219,
+                "des": "卸任外交部发言人，记者会上耿爽哽咽了…点赞祝福，一切都好，后会有期！",
+                "cover_url": "https://p9.pstatp.com/obj/1fa3600017ce54cc91b82",
+                "digg_count": 34856123,
+                "comment_count": 2058448,
+                "share_count": 321783,
+                "create_time": "2020-06-05 16:44:31",
+                "duration": 0,
+                "url": "https://www.iesdouyin.com/share/video/6834781814566014219/?region=CN&mid=6834781905557179143&u_code=36fi3lehcdfb&titleType=title&did=2207452195981694&iid=3606015703267293"
+            },
+            {
+                "author_uid": 104255897823,
+                "aweme_id": 6748283498810985739,
+                "des": "你愿意为这双手、这些面孔点赞吗？他们是用青春守护了祖国，致敬！",
+                "cover_url": "https://p9-dy.byteimg.com/obj/tos-cn-p-0015/1f8308a0ce1e4b4bbcb9e5221a0b0f8a?from=2563711402_large",
+                "digg_count": 29328431,
+                "comment_count": 106810,
+                "share_count": 99230,
+                "create_time": "2019-10-16 14:26:35",
+                "duration": 0,
+                "url": "https://www.iesdouyin.com/share/video/6748283498810985739/?region=CN&mid=6748278891850320651&u_code=16bhf3696&titleType=title"
+            },
+            {
+                "author_uid": 104255897823,
+                "aweme_id": 6878457319592693000,
+                "des": "这些画面真的每次看都心潮澎湃！为我们的祖国骄傲赞起！",
+                "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/563bc9bed2324623be92366824a525b0_1601515655",
+                "digg_count": 28097245,
+                "comment_count": 205815,
+                "share_count": 432544,
+                "create_time": "2020-10-01 09:27:33",
+                "duration": 20120,
+                "url": "https://www.iesdouyin.com/share/video/6878457319592693000/?region=CN&mid=6878457379177220871&u_code=11076b3l2&titleType=title&did=70175173061&iid=193157657789416"
+            },
+            {
+                "author_uid": 104255897823,
+                "aweme_id": 6786634135839558925,
+                "des": "太好了！上海自制抗病毒喷剂，已应用于一线应急病房职业防护！你愿意为科研人员点赞吗？",
+                "cover_url": "https://p1-dy-ipv6.byteimg.com/obj/tos-cn-p-0015/c60b41792c494d399cc287cb91a53e51_1580136416?from=2563711402_large",
+                "digg_count": 26596332,
+                "comment_count": 717980,
+                "share_count": 1055568,
+                "create_time": "2020-01-27 22:46:53",
+                "duration": 0,
+                "url": "https://www.iesdouyin.com/share/video/6786634135839558925/?region=CN&mid=6786625878894856964&u_code=16bhf3696&titleType=title"
+            },
+            {
+                "author_uid": 104255897823,
+                "aweme_id": 6878411973160226056,
+                "des": "今天的升旗，看的格外感动和骄傲！今日份点赞给我们的祖国！我爱你中国！",
+                "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/5127969a82ac4be8b187d95a8fb7257a",
+                "digg_count": 26211189,
+                "comment_count": 108219,
+                "share_count": 531722,
+                "create_time": "2020-10-01 06:32:03",
+                "duration": 23620,
+                "url": "https://www.iesdouyin.com/share/video/6878411973160226056/?region=CN&mid=6878412124000226055&u_code=11076b3l2&titleType=title&did=70175173061&iid=193157657789416"
+            },
+            {
+                "author_uid": 104255897823,
+                "aweme_id": 6914989011278777613,
+                "des": "夹不住的饺子，端不住的碗，看到泪目…也是爸妈最宝贝的孩子，可穿上这身衣服就如此勇敢保护我们，致敬！@大连消防",
+                "cover_url": "https://p9.pstatp.com/obj/tos-cn-i-0813/d61e0ab2862c48118f4d9877aeda80cf",
+                "digg_count": 24088144,
+                "comment_count": 1165908,
+                "share_count": 197996,
+                "create_time": "2021-01-07 20:09:26",
+                "duration": 12015,
+                "url": "https://www.iesdouyin.com/share/video/6914989011278777613/?region=CN&mid=6914989109174258446&u_code=0&titleType=title&did=70175173061&iid=1618135407404504"
+            },
+            {
+                "author_uid": 104255897823,
+                "aweme_id": 6806224197031857421,
+                "des": "有西方学者称从中国购买的产品都有新冠病毒，耿爽回应霸气！请说这种话的人不要戴中国制造的口罩，以免染上病毒。",
+                "cover_url": "https://p26-dy.byteimg.com/obj/tos-cn-p-0015/41b514ec03f341558b0365d96b05f145_1584697564?from=2563711402_large",
+                "digg_count": 23523104,
+                "comment_count": 969403,
+                "share_count": 488640,
+                "create_time": "2020-03-20 17:46:03",
+                "duration": 0,
+                "url": "https://www.iesdouyin.com/share/video/6806224197031857421/?region=CN&mid=6806184212102761223&u_code=16bhf3696&titleType=title"
+            },
+            {
+                "author_uid": 104255897823,
+                "aweme_id": 6722041692683341067,
+                "des": "转身、等待、牵手，自然的动作太暖！今天七夕，希望你也有一份一牵手到白头的爱情！",
+                "cover_url": "https://p26-dy.byteimg.com/obj/tos-cn-p-0015/02424264c52a4d41a13ac6855bbfd502?from=2563711402_large",
+                "digg_count": 23471863,
+                "comment_count": 105607,
+                "share_count": 954397,
+                "create_time": "2019-08-07 12:18:56",
+                "duration": 0,
+                "url": "https://www.iesdouyin.com/share/video/6722041692683341067/?region=CN&mid=6722262189303958275&u_code=kl01894b&titleType=title"
+            },
+            {
+                "author_uid": 104255897823,
+                "aweme_id": 6886640454314560775,
+                "des": "“‘如果惹翻了，是不好办的！’”关于抗美援朝战争，总书记这番话说完，现场掌声经久不息！",
+                "cover_url": "https://p9.pstatp.com/obj/tos-cn-i-0813/8bcafaa521704b2fb07405834c27c8c8",
+                "digg_count": 22590392,
+                "comment_count": 826679,
+                "share_count": 844934,
+                "create_time": "2020-10-23 10:42:41",
+                "duration": 18010,
+                "url": "https://www.iesdouyin.com/share/video/6886640454314560775/?region=CN&mid=6886640604974271240&u_code=11076b3l2&titleType=title&did=70175173061&iid=193157657789416"
+            }
+        ]
+    }
+}

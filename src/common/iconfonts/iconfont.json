@@ -1,0 +1,142 @@
+{
+  "id": "2229195",
+  "name": "抖音-头号数据改版",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18486988",
+      "name": "icon_商品",
+      "font_class": "icon_shangpin",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "18486814",
+      "name": "icon_直播",
+      "font_class": "icon_zhibo",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "18486815",
+      "name": "icon_粉丝",
+      "font_class": "icon_fensi",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "18486816",
+      "name": "icon_点赞",
+      "font_class": "icon_dianzan",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "18486817",
+      "name": "icon_评论",
+      "font_class": "icon_pinglun",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "18464686",
+      "name": "icon_头号数据logo",
+      "font_class": "icon_touhaoshujulogo",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "18464659",
+      "name": "icon_向上",
+      "font_class": "icon_xiangshang",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "18464651",
+      "name": "icon_向下",
+      "font_class": "icon_xiangxia",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "18464585",
+      "name": "icon_菜单",
+      "font_class": "icon_caidan",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "18464530",
+      "name": "icon_搜索",
+      "font_class": "icon_sousuo",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "18464531",
+      "name": "icon_首页",
+      "font_class": "icon_shouye",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "18464532",
+      "name": "icon_热门直播",
+      "font_class": "icon_remenzhibo",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "18464533",
+      "name": "icon_信息",
+      "font_class": "icon_xinxi",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "18464534",
+      "name": "icon_电商带货",
+      "font_class": "icon_dianshangdaihuo",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "18464535",
+      "name": "icon_个人收藏",
+      "font_class": "icon_gerenshoucang",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "18464536",
+      "name": "icon_工具箱",
+      "font_class": "icon_gongjuxiang",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "18464537",
+      "name": "icon_达人查找",
+      "font_class": "icon_darenchazhao",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "18464538",
+      "name": "icon_抖音榜单",
+      "font_class": "icon_douyinbangdan",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "18464539",
+      "name": "icon_创意洞察",
+      "font_class": "icon_chuangyidongcha",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}

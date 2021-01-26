@@ -1,0 +1,48 @@
+{
+    "code": 200,
+    "message": "success",
+    "data": {
+        "collection_video": [
+            {
+                "aweme_id": 6911696929831308552,
+                "des": "#我的漫画身份 准备迎接2021✌🏻",
+                "url": "https://www.iesdouyin.com/share/video/6911696929831308552/?region=CN&mid=6911696992843631367&u_code=15bk99ig0&titleType=title&did=70175173061&iid=967218205821150",
+                "digg_count": 840141,
+                "comment_count": 397308,
+                "share_count": 65555,
+                "create_time": "2020-12-29 23:14:28",
+                "cover_url": ""
+            },
+            {
+                "aweme_id": 6911637901101026567,
+                "des": "中央农村工作会议举行，习近平出席会议并发表重要讲话。",
+                "url": "https://www.iesdouyin.com/share/video/6911637901101026567/?region=CN&mid=6911638071566682888&u_code=15bk99ig0&titleType=title&did=70175173061&iid=967218205821150",
+                "digg_count": 577844,
+                "comment_count": 16829,
+                "share_count": 3638,
+                "create_time": "2020-12-29 19:25:29",
+                "cover_url": "https://p9.pstatp.com/obj/tos-cn-i-0813/2cef1be16b8c4a358ceae049f1c7c9cb"
+            },
+            {
+                "aweme_id": 6911603276739808519,
+                "des": "权威发布！北京市中小学分三批放寒假，市小学提前两周放寒假。",
+                "url": "https://www.iesdouyin.com/share/video/6911603276739808519/?region=CN&mid=6911603383196388109&u_code=15bk99ig0&titleType=title&did=70175173061&iid=967218205821150",
+                "digg_count": 2276394,
+                "comment_count": 58574,
+                "share_count": 299125,
+                "create_time": "2020-12-29 17:11:07",
+                "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/89d93bdd632b4eedab916b2d360de2b1"
+            },
+            {
+                "aweme_id": 6911572324131065102,
+                "des": "“和平不是从天上掉下来的，和平是先烈拿命换来的”，这番话让人太有共鸣！",
+                "url": "https://www.iesdouyin.com/share/video/6911572324131065102/?region=CN&mid=6911572447029447432&u_code=15bk99ig0&titleType=title&did=70175173061&iid=967218205821150",
+                "digg_count": 559239,
+                "comment_count": 10869,
+                "share_count": 5431,
+                "create_time": "2020-12-29 15:11:04",
+                "cover_url": "https://p9.pstatp.com/obj/tos-cn-p-0015/014bceaa269845b3831920fb6e4f79b2"
+            }
+        ]
+    }
+}

@@ -1,0 +1,862 @@
+/*
+ * @Author: 
+ * @Date: 2019-07-31 18:46:59
+ * @LastEditors: jiashuangxi
+ * @LastEditTime: 2021-01-26 10:56:15
+ * @Description: 公共样式
+ */
+// ****** 框架设置
+ .page-scroll__set {
+  height: calc(100% - 74px);
+  min-width: 1140px;
+  overflow: hidden;
+  position: absolute;
+  width: calc(100% - 220px);
+ }
+// ****** 排序设置
+ /deep/.el-table .sort-caret.ascending {
+   display:none;
+   pointer-events:none;
+   cursor: not-allowed;
+ }
+ /deep/.el-table .sort-caret.descending {
+   bottom: 10px;
+ }
+
+ // ****** 超出省略号
+@mixin ellipsis($line) {
+  display: -webkit-box;
+  -webkit-box-orient:vertical;
+  overflow: hidden;
+  -webkit-line-clamp: $line;
+}
+
+// ****** 详情页面
+//  公共样式 
+.home-set-dt {
+  .home-main {
+    background: #fff;
+    padding: 16px;
+    .home-line {
+      &::after{
+        content: '';
+        width: 100%;
+        height: 1px;
+        line-height: 1px;
+        background: #E8E8E8;
+      }
+    }
+    
+  }
+}
+// 列表布局 （二列）
+.home-list {
+  display: flex;
+  flex-wrap: wrap;
+  p {
+    width: 50%;
+    margin: 0px;
+    padding: 0px;
+    span {
+      text-align: left;
+    }
+    span:nth-of-type(1){
+      color: #666;
+    }
+    span:nth-of-type(2){ 
+      color: #333;
+    }
+  }
+  p.set-tit {
+    width: 100%;
+    font-size: 14px;
+    text-align: justify;
+    color: #666;
+    @include ellipsis(2);
+    span {
+      color: #333;
+    }
+  }
+}
+// 标题
+.home-tit {
+  font-size: 14px;
+  color: #333;
+  font-weight: normal;
+}
+
+// 列表布局 （三列）
+.home-list-col {
+  display: flex;
+  flex-wrap: wrap;
+  p {
+    width: 33.3%;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0;
+    span {
+      width: 100%;
+      text-align: center;
+      display: block;
+    }
+    span:nth-child(1) {
+      font-size: 14px;
+      color: #333;
+      padding-bottom: 4px;
+    }
+    span:nth-child(2) {
+      font-size: 12px;
+      color: #999;
+    }
+  }
+}
+
+// 标题与日期
+.home-hdset {
+  margin-left: 20px;
+  margin-right: 20px;
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #E8E8E8;
+  
+  &-tit {
+    margin: 0;
+    font-size: 14px;
+    color: #333;
+    font-weight: normal;
+    width: 20%;
+    line-height: 28px;
+  }
+  &-label {
+    font-size: 12px;
+    width: 80%;
+    text-align: right;
+    span {
+      width: 68px;
+      height: 28px;
+      display: block;
+      background: #4F8DFB;
+      float: right;
+      line-height: 28px;
+      border-radius: 4px;
+      text-align: center;
+      color: #fff;
+      font-size: 14px;
+      margin-right: 10px;
+    }
+    .date-set {
+      /deep/.el-date-editor {
+        width: 220px;
+        float: right;
+      }
+    }
+  }
+}
+
+
+// ****** 自定义复选框/单选框设置
+ .tab-block {
+  background: #fff;
+  border-radius: 4px;
+  padding: 14px;
+  .talent-input {
+    width: 558px;
+    margin-bottom: 10px;
+  }
+  .cont-set {
+    &_select{
+      width:86px;
+      margin-right: 10px;
+    }
+    /deep/.el-form-item__content {
+      margin-left: 0px;
+    }
+  }
+  /deep/.el-form-item {
+    margin-bottom: 0px;
+    position: relative;
+    &.talent_detail {
+      height: 38px;
+      overflow: hidden;
+      transition:  all 300ms;
+      .el-icon-arrow-down {
+        transition: transform .3s;
+        transform: rotate(180deg);
+      }
+    } 
+
+    &__tit {
+      position: absolute;
+      right: 3px;
+      margin: 0px;
+      font-size: 14px;
+      color: #4F8DFB;
+      cursor: pointer;
+    }
+    &__label {
+      text-align: left;
+      font-size: 14px;
+    }
+    &__content {
+      margin-left: 70px;
+      width: 96%;
+      .tit-name {
+        font-size: 14px;
+        color: #999;
+        display: inline-block;
+        margin-left: 18px;
+        margin-right: 12px;
+      }
+      .ctvideo-intro {
+        font-size: 14px;
+        color: #C1C1C1;
+        margin-left: 12px;
+      }
+      
+    }
+    
+    .el-checkbox-button .el-checkbox-button__inner,
+    .el-radio-button--mini .el-radio-button__inner {
+      border: 0px;
+      font-size: 14px;
+      color: #999;
+      border-radius: 4px;
+      box-shadow: none;
+      margin-right: 6px;
+      margin-left: 6px;
+    }
+    .el-checkbox-button.is-checked .el-checkbox-button__inner,
+    .el-radio-button__orig-radio:checked + .el-radio-button__inner{
+      background: #E4EAFC;
+      color: #3E6BFE;
+      border: 0px;
+    }
+  }
+
+ }
+
+// ****** 电商带货-大图列表显示
+.shop-block {
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #fff;
+  .drset {
+    .tx-pic {
+      font-size: 16px;
+      color: #333;
+      @include ellipsis(2);
+    }
+    .tx-pics {
+      font-size: 16px;
+      color: #333;
+      @include ellipsis(1);
+      font-weight: bold;
+    }
+    .tx-detail {
+      font-size: 14px;
+      color: #333;
+      @include ellipsis(1);
+      margin-bottom: 10px;
+    }
+    .head-list__pic {
+      width: 106px;
+      height: 106px;
+    }
+    .el-tag-set {
+      font-size: 13px;
+      margin-right: 6px;
+    }
+    .ty-tit {
+      font-size: 14px;
+      margin-right: 10px;
+      position: absolute;
+      bottom: 0;
+    }
+    img {
+      width: 100px;
+      height: 100px;
+      background-size: 100px 100px;
+      border: 3px solid #fff;
+      border-radius: 0;
+    }
+    .head-list {
+      width: 100%;
+      position: relative;
+    }
+    .tanlent-block {
+      margin-bottom: 4px;
+      margin-top: 8px;
+    }
+    .set-video {
+      margin-left: 10px;
+      margin-right: 6px;
+    }
+  }
+}
+
+// ****** 小圆图头像列表显示
+.find-block {
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #fff;
+  .drset {
+    .tx-pic {
+      font-size: 16px;
+      color: #333;
+    }
+    .head-list__pic {
+      width: 64px;
+      height: 60px;
+    }
+    .el-tag-set {
+      font-size: 14px;
+      margin-right: 6px;
+    }
+    .ty-tit {
+      font-size: 14px;
+      color: #999;
+      margin-right: 10px;
+    }
+    img {
+      width: 52px;
+      height: 52px;
+      background-size: 52px 52px;
+      border: 3px solid #fff;
+    }
+    .head-list {
+      width: 100%;
+    }
+    .tanlent-block {
+      margin-bottom: 4px;
+    }
+    .set-video {
+      margin-left: 10px;
+      margin-right: 6px;
+    }
+    .ty-tit {
+      font-size: 14px;
+      color: #999;
+      margin-right: 10px;
+    }
+  }
+}
+.new_detail {
+  height: 80px;
+}
+// 默认滚动条修改
+/* 设置滚动条的样式 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 68px;
+}
+/* 滚动槽 */
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+/* 滚动条滑块 */
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: #666;
+}
+// 数据返回慢{{}}处理
+[v-cloak] {
+  display: none;
+}
+
+// ****** 动画
+@mixin keyframes($animationName) {
+  @-webkit-keyframes #{$animationName} {
+      @content;
+  }
+  @-moz-keyframes #{$animationName} {
+      @content;
+  }
+  @-o-keyframes #{$animationName} {
+      @content;
+  }
+  @keyframes #{$animationName} {
+      @content;
+  }
+}
+// 输入框获取焦点
+/deep/.el-input__inner:focus {
+  border-color: #3E6BFE;
+}
+// 搜索
+/deep/.search-btn {
+  cursor: pointer;
+}
+
+// ****** 公共动画效果
+.color-set {
+  transition: color 300ms;
+}
+.background-set {
+  transition: background 300ms;
+}
+.height-set {
+  transition: height 300ms;
+}
+.arrow-set {
+  transition: transform 300s;
+}
+
+// el-tab选项卡自定义样式修改
+/deep/.el-tabs {
+  &__header {
+    margin: 0px;
+  }
+  &__nav {
+    border: 0!important;
+  }
+  &__header {
+    border-bottom: 0;
+
+  }
+  &__item {
+    padding: 0 30px;
+    height: 38px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    line-height: 40px;
+    display: inline-block;
+    list-style: none;
+    font-size: 13px;
+    color: #666;
+    position: relative;
+    background: #E7EAEF;
+    margin-right: 10px;
+    border: 0;
+    box-shadow: none;
+    border-radius: 12px 12px 0px 0px;
+    &.is-active {
+      color: #3E6BFE;
+      background: #fff;
+      position: relative;
+      // width: 40px;
+      height: 40px;
+      padding: 0 30px;
+      border: 0;
+      transition:none;
+      box-shadow: none;
+      &::before {
+        position: absolute;
+        content: '';
+        width: 40px;
+        height: 2px;
+        background: #3E6BFE;
+        bottom: -1px;
+        
+      }
+    }
+  }
+  &__item:focus.is-active.is-focus:not(:active) {
+    box-shadow: none;
+  }
+  &__item:nth-child(2n) {
+    padding-left: 30px!important;
+    padding-right: 30px!important;
+  }
+  &__item:last-child {
+    padding-left: 30px!important;
+    padding-right: 30px!important;
+  }
+
+}
+
+// *********操作图标 
+.tip-set {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  margin-right: 8px;
+}
+// 查看详情
+.dt-cion {
+  background: url("../../common/assets/dt-cion.png") no-repeat;
+  background-size: 16px 16px;
+}
+// 收藏达人
+.clt-nor {
+  background: url("../../common/assets/clt_nor.png") no-repeat;
+  background-size: 16px 16px;
+}
+// 取消收藏
+.clt-act {
+  background: url("../../common/assets/clt_act.png") no-repeat;
+  background-size: 16px 16px;
+}
+// 达人对比
+.cpare-nor {
+  background: url("../../common/assets/cpare_nor.png") no-repeat;
+  background-size: 16px 16px;
+}
+// 取消对比
+.cpare-act {
+  background: url("../../common/assets/cpare_act.png") no-repeat;
+  background-size: 16px 16px;
+}
+
+// 操作按钮
+.dropdown-set{
+/deep/.el-dropdown-menu__item {
+  font-size: 14px;
+}
+.moreBtn:hover {
+  color: #45B7FF;
+}
+}
+
+// 表格划过颜色
+/deep/.el-table__body tr:hover > td{
+  background-color:#FFF9FA;
+}
+/deep/.el-table__body .el-table__row.hover-row td{
+  background-color: #FFF9FA;
+}
+// 向上图标
+.upset {
+  color: #FC597B;
+}
+// 向下图标
+.downset {
+  color: #43B554;
+}
+
+// ****** icon 图标库
+.set-com-cion {
+  width: 14px;
+  height: 14px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 8px;
+}
+// 商品橱窗
+.pro-cion {
+  background: url("../../common/assets/pro-cion.png") no-repeat;
+  background-size: 14px 14px;
+}
+// 直播
+.video-cion {
+  background: url("../../common/assets/video-cion.png") no-repeat;
+  background-size: 14px 14px;
+}
+
+// ******VueLazyLoad 懒加载图片 
+// 头像设置-加载中
+.head-pic[lazy=loading] {
+  background: url('../../common/assets/defaultAvatar.jpg') no-repeat;
+}
+// 头像设置-加载错误
+.head-pic[lazy=error] {
+  background: url('../../common/assets/defaultAvatar.jpg') no-repeat;
+}
+
+// 达人视频-加载中
+.video-pic[lazy=loading] {
+  background: url('../../common/assets/defaultVideo.jpg') no-repeat;
+  width: 134px;
+  height: 220px;
+  background-size: 134px 220px;
+}
+// 达人视频-加载中
+.video-pic[lazy=error] {
+  background: url('../../common/assets/defaultVideo.jpg') no-repeat;
+  width: 134px;
+  height: 220px;
+  background-size: 134px 220px;
+}
+
+// 话题视频-加载中
+.topicvideo-pic[lazy=loading] {
+  background: url('../../common/assets/defaultTopvideo.jpg') no-repeat;
+  width: 134px;
+  height: 220px;
+  background-size: 134px 220px;
+}
+// 话题视频-加载中
+.topicvideo-pic[lazy=error] {
+  background: url('../../common/assets/defaultTopvideo.jpg') no-repeat;
+  width: 134px;
+  height: 220px;
+  background-size: 134px 220px;
+}
+
+// 音乐封面-加载中
+.music-pic[lazy=loading] {
+  background: url('../../common/assets/defaultMusic.jpg') no-repeat;
+  width: 134px;
+  height: 220px;
+  background-size: 134px 220px;
+}
+// 音乐封面-加载中
+.nusic-pic[lazy=error] {
+  background: url('../../common/assets/defaultMusic.jpg') no-repeat;
+  width: 134px;
+  height: 220px;
+  background-size: 134px 220px;
+}
+
+// ****** 表单相应设置 公共
+  // 易指数
+  .tit-font{
+    font-family:"AGENCYB";
+    font-size: 16px;
+    color: #333;
+  }
+  .tit-nor {
+    font-size: 14px;
+    color: #666;
+  }
+  .tit-norset {
+    font-size: 14px;
+    color: #666;
+  }
+  .top-tit {
+    font-size: 16px;
+    color: #333;
+  }
+  // 粉丝总量、点赞总量
+  .taccount {
+    white-space: nowrap;
+    &-one {
+      font-size: 16px;
+      color: #333;
+      font-family: "AGENCYB";
+    }
+    &-two {
+      font-size: 14px;
+    }
+  }
+  // 列表操作
+ .moreBtn {
+    font-size: 16px;
+    color: #B6C8D6;
+    transition:  color 300ms;
+    &:hover {
+      color: #4F8DFB;
+    }
+  }
+
+// ****** 头像列表设置 公共
+  .head-list {
+    width: 50%;
+    display: flex;
+    &__pic{
+      width: 58px;
+      height: 58px;
+      margin-right: 10px;
+      &-picsrc {
+        width: 58px;
+        height: 58px;
+        background-size: 58px 58px;
+        border-radius: 50%;
+        box-shadow: 0px 2px 5px #E4EAFC;
+      }
+    }
+    &__tit {
+      &-name {
+        @include ellipsis(1);
+        color: #333;
+      }
+      span:nth-of-type(1) {
+        font-size: 16px;
+        margin-bottom: 10px;
+      }
+      &-tyh {
+        color: #999;
+      }
+      span:nth-of-type(2) {
+        font-size: 12px;
+      }
+    }
+  }
+// 卡片效果
+.tit-label {
+    padding: 4px;
+    background: #EEF1F3;
+    display: inline-block;
+    font-size: 14px;
+    color: #666;
+    margin-right: 5px;
+    border-radius: 2px;
+  }
+
+// 卡片自定义
+/deep/.el-tag {
+  background: #EEF1F3;
+  border: 0px;
+  color: #666;
+  &-set {
+    margin-right: 6px;
+  }
+
+}
+
+@media only screen and (max-width:1440px) { 
+  // ****** 自定义复选框/单选框设置
+ .tab-block {
+    /deep/.el-form-item {
+    &__tit {
+      font-size: 12px;
+    }
+    &__label {
+      font-size: 12px;
+    }
+    &__content {
+      margin-left: 60px;
+      width: 94%;
+      .ctvideo-intro {
+        font-size: 12px;
+      }
+      .tit-name {
+        font-size: 12px;
+      }
+    }
+    .el-checkbox-button .el-checkbox-button__inner,
+    .el-radio-button--mini .el-radio-button__inner {
+      font-size: 12px;
+    }
+  }
+ }
+
+ //  ****** 电商带货-大图显示
+.shop-block {
+  .drset {
+    .tx-pic {
+      font-size: 14px;
+    }
+    .tx-pics {
+      font-size: 14px;
+      margin-bottom: 2px;
+    }
+    .tx-detail {
+      margin-bottom: 4px;
+      font-size: 13px;
+    }
+    .head-list__pic {
+      width: 85px;
+      height: 85px;
+    }
+    .el-tag-set {
+      font-size: 12px;
+    }
+    .ty-tit {
+      font-size: 12px;
+    }
+    img {
+      width: 75px;
+      height: 75px;
+      background-size: 75px 75px;
+    }
+    .tanlent-block {
+      margin-top: 4px;
+    }
+  }
+}
+
+// ****** 小圆图头像列表显示
+.find-block {
+  .drset {
+    .tx-pic {
+      font-size: 14px;
+    }
+    .head-list__pic {
+      width: 48px;
+      height: 48px;
+    }
+    .el-tag-set {
+      font-size: 12px;
+      margin-right: 6px;
+    }
+    .ty-tit {
+      font-size: 12px;
+    }
+    
+    img {
+      width: 38px;
+      height: 38px;
+      background-size: 38px 38px;
+    }
+  }
+}
+ 
+  // ****** 表单相应设置 公共
+  .tit-font{
+    font-size: 14px;
+  }
+  .tit-nor {
+    font-size: 12px;
+  }
+  .tit-norset {
+    font-size: 14px;
+    color: #666;
+  }
+  .top-tit {
+    font-size: 14px;
+  }
+  .taccount {
+    white-space: nowrap;
+    &-one {
+      font-size: 14px;
+    }
+    &-two {
+      font-size: 12px;
+    }
+  }
+// *********操作图标 
+.tip-set {
+  width: 14px;
+  height: 14px;
+  display: inline-block;
+  margin-right: 8px;
+}
+// 查看详情
+.dt-cion {
+  background: url("../../common/assets/dt-cion.png") no-repeat;
+  background-size: 14px 14px;
+}
+// 收藏达人
+.clt-nor {
+  background: url("../../common/assets/clt_nor.png") no-repeat;
+  background-size: 14px 14px;
+}
+// 取消收藏
+.clt-act {
+  background: url("../../common/assets/clt_act.png") no-repeat;
+  background-size: 14px 14px;
+}
+// 达人对比
+.cpare-nor {
+  background: url("../../common/assets/cpare_nor.png") no-repeat;
+  background-size: 14px 14px;
+}
+// 取消对比
+.cpare-act {
+  background: url("../../common/assets/cpare_act.png") no-repeat;
+  background-size: 14px 14px;
+}
+// 操作按钮
+.dropdown-set{
+  /deep/.el-dropdown-menu__item {
+    font-size: 12px;
+  }
+  .moreBtn:hover {
+    color: #45B7FF;
+  }
+  }
+  // 列表操作
+ .moreBtn {
+    font-size: 14px;
+    color: #B6C8D6;
+    transition:  color 300ms;
+    &:hover {
+      color: #4F8DFB;
+    }
+  }
+
+  
+}

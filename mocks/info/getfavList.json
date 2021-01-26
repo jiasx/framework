@@ -1,0 +1,67 @@
+{
+    "code": 200,
+    "data": {
+        "uid": "2836391727733271",
+        "favorited_trend": [
+            {
+                "total_favorited": 47903000,
+                "calculated_date": "2020-12-31"
+            },
+            {
+                "total_favorited": 47904000,
+                "calculated_date": "2020-12-30"
+            },
+            {
+                "total_favorited": 47905000,
+                "calculated_date": "2020-12-29"
+            },
+            {
+                "total_favorited": 47905000,
+                "calculated_date": "2020-12-28"
+            },
+            {
+                "total_favorited": 47905000,
+                "calculated_date": "2020-12-27"
+            },
+            {
+                "total_favorited": 47905000,
+                "calculated_date": "2020-12-26"
+            },
+            {
+                "total_favorited": 47905000,
+                "calculated_date": "2020-12-25"
+            }
+        ],
+        "favorited_grow_trend": [
+            {
+                "total_favorited_grow": -1000,
+                "calculated_date": "2020-12-31"
+            },
+            {
+                "total_favorited_grow": -1000,
+                "calculated_date": "2020-12-30"
+            },
+            {
+                "total_favorited_grow": 0,
+                "calculated_date": "2020-12-29"
+            },
+            {
+                "total_favorited_grow": 0,
+                "calculated_date": "2020-12-28"
+            },
+            {
+                "total_favorited_grow": 0,
+                "calculated_date": "2020-12-27"
+            },
+            {
+                "total_favorited_grow": 0,
+                "calculated_date": "2020-12-26"
+            },
+            {
+                "total_favorited_grow": 0,
+                "calculated_date": "2020-12-25"
+            }
+        ]
+    },
+    "message": "success"
+}

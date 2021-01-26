@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "return_code": 200,
+  "return_msg": "请求成功",
+  "data": {
+      "id": "3",
+      "module": "公告",
+      "titleType": "行政IT",
+      "title": "阿里巴巴2",
+      "content": "123333好的火花塞",
+      "attachUrl": "",
+      "browseTimes": 0,
+      "createTime": 1560938264000,
+      "publishTime": 1562656084000,
+      "publishStatus": "2",
+      "whetherTop": "0",
+      "sort": 1,
+      "userId": "123",
+      "userName": "花花"
+  },
+  "dateTime": "2019-07-09 15:08:28"
+}

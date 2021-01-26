@@ -1,0 +1,88 @@
+{
+    "code": 200,
+    "message": "success",
+    "data": {
+        "pagination": {
+            "has_more": 0,
+            "page": 1,
+            "limit": 10
+        },
+        "collection_list": [
+            {
+                "uid": 2836391727733271,
+                "nickname": "李现ing",
+                "avatar": "",
+                "short_id": "yanyuanlixian",
+                "follower_count": 20606000,
+                "total_favorited": 47903000,
+                "easy_rate": 6259,
+                "with_commerce_entry": 0,
+                "follower_count_grow": -4000,
+                "total_favorited_grow": -1000,
+                "avg_total_favorited": 15967666.67,
+                "avg_total_comment": 0,
+                "avg_total_share": 0
+            },
+            {
+                "uid": 100858789379,
+                "nickname": "麦姐吖",
+                "avatar": "https://p6-dy-ipv6.byteimg.com/aweme/720x720/2eb700000782488631a55.jpeg?from=4010531038",
+                "short_id": "1135639705",
+                "follower_count": 205000,
+                "total_favorited": 10838000,
+                "easy_rate": 6270,
+                "with_commerce_entry": 1,
+                "follower_count_grow": 0,
+                "total_favorited_grow": 0,
+                "avg_total_favorited": 361266.66999999998,
+                "avg_total_comment": 0,
+                "avg_total_share": 0
+            },
+            {
+                "uid": 104255897823,
+                "nickname": "人民日报",
+                "avatar": "https://p6-dy-ipv6.byteimg.com/aweme/720x720/30ed2000aad26be101cad.jpeg?from=4010531038",
+                "short_id": "rmrbxmt",
+                "follower_count": 118546000,
+                "total_favorited": 1299577000,
+                "easy_rate": 6433,
+                "with_commerce_entry": 1,
+                "follower_count_grow": 177000,
+                "total_favorited_grow": 2508000,
+                "avg_total_favorited": 517553.56,
+                "avg_total_comment": 0,
+                "avg_total_share": 0
+            },
+            {
+                "uid": 3707183156699556,
+                "nickname": "肖战",
+                "avatar": "https://p26-dy.byteimg.com/aweme/720x720/3184800048ba776f908d4.jpeg?from=4010531038",
+                "short_id": "Xiaozhan_1005.",
+                "follower_count": 8528000,
+                "total_favorited": 21807000,
+                "easy_rate": 6510,
+                "with_commerce_entry": 0,
+                "follower_count_grow": 0,
+                "total_favorited_grow": 0,
+                "avg_total_favorited": 3634500,
+                "avg_total_comment": 0,
+                "avg_total_share": 0
+            },
+            {
+                "uid": 3284978481758819,
+                "nickname": "晚安电台",
+                "avatar": "https://p26-dy.byteimg.com/aweme/720x720/2f1bd0002df617c4717e3.jpeg?from=4010531038",
+                "short_id": "fmgn777",
+                "follower_count": 563000,
+                "total_favorited": 10080000,
+                "easy_rate": 6241,
+                "with_commerce_entry": 0,
+                "follower_count_grow": 0,
+                "total_favorited_grow": 4000,
+                "avg_total_favorited": 840000,
+                "avg_total_comment": 0,
+                "avg_total_share": 0
+            }
+        ]
+    }
+}
