@@ -2,7 +2,7 @@
  * @Author: jiashuangxi
  * @Date: 2019-11-11 19:27:19
  * @LastEditors: jiashuangxi
- * @LastEditTime: 2021-01-11 16:48:10
+ * @LastEditTime: 2021-01-27 14:45:01
  * @Describe: 首页
 -->
 <template>
@@ -14,7 +14,8 @@
           v-for="tops in topList" @click="goRouter(tops.router)"
           :key="tops.title">
             <div class="home-show__module-pic">
-              <img :src="tops.src" class="home-show__module-picsrc"/>
+              <!-- $compress(tops.src) -->
+              <img :src="$compress(tops.src)" class="home-show__module-picsrc"/>
             </div>
             <div class="home-show__module-tit">
               <span>{{tops.title}}</span><br/>

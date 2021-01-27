@@ -2,7 +2,7 @@
  * @Author: jiashuangxi
  * @Date: 2019-11-11 19:27:19
  * @LastEditors: jiashuangxi
- * @LastEditTime: 2021-01-26 11:00:16
+ * @LastEditTime: 2021-01-27 14:41:17
  * @Describe: 
  */
 import Vue from 'vue';
@@ -23,6 +23,7 @@ import router from './router/index';
 import store from './store/index';
 
 import fetch from './utils/extendAxios';
+import compress from './utils/compress';
 
 import * as filters from './filters';
 
@@ -33,6 +34,7 @@ Vue.use(VueLazyLoad, {
 
 Vue.config.productionTip = false;
 Vue.prototype.$fetch = fetch;
+Vue.prototype.$compress = compress;
 
 new Vue({
   router,
